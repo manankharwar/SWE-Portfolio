@@ -1,0 +1,11 @@
+Sections of the page as a comp
+
+1. Header Component
+2. About Me
+3. Experience
+4. Projects
+5. Extra-Curriculars
+6. Education
+7. Footer
+8. Nav
+
