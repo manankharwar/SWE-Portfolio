@@ -2,7 +2,7 @@ import React from 'react'
 import './Projects.css'
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <section id='project'>Projects</section>
   )
 }
 
