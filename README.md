@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# SWE Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my Software Engineering portfolio! This portfolio contains information about my experience, skills, and projects as a software engineer.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+My name is Manan, and I am a senior pursuing Engineering Physics and Computer Science at McMaster University. I've over two years of co-op experience and have worked on a variety of projects in different industries. My passion for programming started when I was young, and I have since developed skills in several programming languages and technologies.
 
-### `npm start`
+```Skills
+Programming languages: Java, Python, Bash, JavaScript, TypeScript, Next.js React, Kubernetes
+Technologies: Git, Docker, CI/CD, Jenkins, Angular, OpenShift, Algorand, MaterialUI, Plotly.js, JIRA
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Agile development methodologies
+Strong problem-solving skills
+Excellent communication skills
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Work Experience
 
-### `npm test`
+```python
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. my.role('Test Automation Co-op');
+   company.name('Ceridian HCM');
+   role.responsibilities('Coordinated with developers, and product owners to produce stable, maintainable, and reliable automated tests')
+   technologies.used('Selenium, FitNesse, SpecFlow, Jenkins, JMeter, Cucumber, TestNG, RESTful API services')
 
-### `npm run build`
+2. my.role('DevTestSecOps Developer Co-op');
+   company.name('Intact Insurance Corporation');
+   role.responsibilities('Developed, & improved a dashboard that gathered and visualized various KPI’s from all phases of the SDLC')
+   technologies.used('Docker, CI/CD, Jenkins, Angular, OpenShift, TypeScript')
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. my.role('Network Engineer Co-op');
+   company.name('Bell Canada');
+   role.responsibilities('Designed a product to evaluate environmental, social & governance ("ESG") integration across client portfolios')
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact Me
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for taking the time to review my portfolio. If you have any questions or would like to get in touch with me, please feel free to contact me at kharwarm@mcmaster.ca.
