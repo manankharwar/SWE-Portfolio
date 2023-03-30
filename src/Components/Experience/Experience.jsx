@@ -1,7 +1,7 @@
 import React from 'react'
 import './Experience.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
-
+import { BiCheck } from 'react-icons/bi'
 // talk about different co-ops you've had. Maybe you can also talk about your leadership involvement and extracurriculars as well !!!! YES DO IT!!
 const Experience = () => {
   return (
@@ -134,11 +134,101 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className='still__incomplete'>
-        Have to add my experiences here bell, Intact, etc. Look for inspiration
+<br /><br /><br />
+      <h5>
+        What I Bring To The Table 
+      </h5>
+      <h2>
+        Co-op Experiences      
+      </h2>
+      <div className='container services__container'>
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Bell Canada</h3>
+            <h4>May 2021 - August 2021</h4>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>• Architected a new system to automate database xml workflows, saving approx 5 hours of manual per week</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Led a team of Managers and advisors for our daily scrum meetings</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Designed a product to evaluate environmental, social & governance ("ESG") integration across client portfolios</p>
+            </li>
+          </ul>
+        </article>
+
+
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Intact Insurance Corporation</h3>
+            <h4>May 2022 - April 2023</h4>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Developed, & improved a dashboard that gathered and visualized various KPI’s from all phases of the SDLC</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Built with Next.js React framework using Material-UI, Plotly.js components, served with Express, & TypeScript</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Maintained, built, and integrated pipelines and software deployment streams using Docker, & OpenShift environment</p>
+            </li>
+
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Ensured security and quality of the code using Veracode, TwistLock, Nexus IQ scans, & SonarQube for quality</p>
+          </li>
+          </ul>
+        </article>
+
+
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Ceridian HCM</h3>
+            <h4>May 2023 - August 2023</h4>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Developed and maintained automation test suites using Specflow and Selenium</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Coordinated with developers, QA analysts, and product owners to produce stable and reliable automated tests</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Improved automation framework code to expand automated test coverage</p>
+            </li>
+
+            <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Demonstrated proficiency in modern web technologies and programming languages like C#, Java, or C++</p>
+          </li>
+          </ul>
+        </article>
       </div>
     </section>
     // have to add my experiences here bell, Intact, etc. Look for inspiration
+    
   )
 }
 
