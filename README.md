@@ -1,4 +1,4 @@
-# SWE Portfolio
+# Portfolio
 
 Welcome to my Software Engineering portfolio! This portfolio contains information about my experience, skills, and projects as a software engineer.
 
