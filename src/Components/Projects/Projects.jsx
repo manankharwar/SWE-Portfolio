@@ -28,8 +28,8 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={decentralized} alt=""/>
           </div>
-          <h3>Algorand Blockchain Cryptocurrency</h3>
-          <h5>A payroll system that enables an employer to understand the importance of fair pay, thus reducing pay inequality, & racial justice</h5> <br></br>
+          <h2>ALGOPAY.io</h2>
+          <h4>A payroll system that enables an employer to understand the importance of fair pay, thus reducing pay inequality, & racial justice</h4> 
           <div className='project__item-cta'>
           <a href='https://github.com/manankharwar/Robinhood_Hackathon_Payroll' className='project-btn' target="_blank" rel="noreferrer" >GitHub</a>
           </div>
@@ -40,7 +40,7 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={romba} alt=""/>
           </div>
-          <h3>iRobot Roomba</h3>
+          <h2>iRobot Roomba</h2>
           <div className='project__item-cta'>
             <a href='https://github.com/manankharwar/i-Robot-Roomba' className='btn' target="_blank" rel="noreferrer" >GitHub</a>
             <a href='https://drive.google.com/file/d/1EX4OADOl5hf0EHeYDBGFgjWU2BV3Rm6p/view?usp=sharing' className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
@@ -51,7 +51,7 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={shacks} alt=""/>
           </div>
-          <h3>Finansible</h3>
+          <h2>Finansible</h2>
           <div className='project__item-cta'>
             <a href='https://github.com/manankharwar' className='project-btn' target="_blank" rel="noreferrer" >GitHub</a>
             {/*<a href='https://github.com/manankharwar' className='btn btn-primary'>GitHub</a>*/}
@@ -62,17 +62,16 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={unity} alt=""/>
           </div>
-          <h3>Unity3D Game Dev</h3>
-          <h5> Unity3D project focused on scripting & building working functionality.</h5><br />
+          <h2>Unity3D Game Dev</h2>
+          <h4> Unity3D project focused on scripting & building working functionality.</h4><br />
           <ul>
-            <li>Player movement and controls Non-player character (NPC)</li>
+            <li>Controls Non-player character (NPC)</li>
             <li>Behavior and Interactions</li>
             <li>Environmental Objects and Physics</li>
             <li>Audio and visual effects</li>
             <li>User interface and menus</li>
             <li>multiplayer functionality</li>
           </ul>
-          <br />
           <div className='project__item-cta'>
             <a href='https://drive.google.com/file/d/17KC7MQ7opteU1GrFX9ILeAEysSfGgDGD/view?usp=sharing' className='project-btn' target="_blank" rel="noreferrer">Live Demo</a>
           </div>
@@ -82,11 +81,11 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={medX} alt=""/>
           </div>
-          <h3>MedX</h3>
+          <h2>MedX</h2>
           <h4>
           Built an application that helped less-educated people easily find suitable medicines or prescriptions. <br /> <br />
           The application used image detection and parsing through a database to provide users with information in laymen's language, such as the name of the medicine and how to use it. 
-          </h4> <br /> <br />
+          </h4>
           <div className='project__item-cta'>
             { /*<a href='https://github.com/manankharwar' className='btn' target="_blank" rel="noreferrer" >GitHub</a> */}
             <a href='https://drive.google.com/file/d/12ORM2WlSkxeaR8gBZBgll5wWWPYjEHf2/view?usp=sharing' className='project-btn' target="_blank" rel="noreferrer">Live Demo</a>
@@ -97,9 +96,9 @@ const Projects = () => {
           <div className='project__item-image'>
             <img src={handprosthesis} alt=""/>
           </div>
-          <h3>Design of a Hand Prosthesis</h3>
+          <h2>Design of a Hand Prosthesis</h2>
           <h4>Designed prosthesis for missing hand's forefinger and thumb with range of motion approximation for point-of-contact</h4>
-          <br />
+          
           <div className='project__item-cta'>
             <a href='https://github.com/manankharwar/Hand-Prosthesis' className='btn' target="_blank" rel="noreferrer" >GitHub</a>
             <a href='https://drive.google.com/file/d/17A2wGJ5LFHTujLH7ILbZ5_yT6Ec1r-yX/view?usp=sharing' className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
