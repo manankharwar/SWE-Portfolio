@@ -51,11 +51,16 @@ form{
 input, textarea {
     width: 100%;
     padding: 1.5rem;
+    /* border-color: var(--color-white); */
+    border: 2px solid var(--color-white);
     border-radius: 0.5rem;
     background: transparent;
-    border: 2px solid var(--color-primary--variant);
     resize: none;
     color: var(--color-white);
+}
+
+textarea {
+    height: 15rem;
 }
 
 @media screen and (max-width: 1024px) {
