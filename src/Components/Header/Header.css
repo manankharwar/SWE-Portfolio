@@ -75,14 +75,14 @@ header {
 
 @media screen and (max-width: 1024px) {
     header{
-        height: 68vh;
+        height: 170vh;
     }
 }
 
 /* Media Queries (small devices)  */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 180vh;
     }
 
     .header__socials, .scroll__down {
