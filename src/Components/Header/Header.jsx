@@ -11,6 +11,7 @@ const Header = () => {
   const [isDeleting, setIsDeleting] = useState(false);
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(80);
+  // eslint-disable-next-line
   const [index, setIndex] = useState(1);
   const toRotate = [ "Senior At McMaster University", "Test Automation Intern", "Looking for SWE New Grad roles!" ];
   const period = 1000;
@@ -21,6 +22,7 @@ const Header = () => {
     }, delta);
 
     return () => { clearInterval(ticker) };
+    // eslint-disable-next-line
   }, [text])
 
   const tick = () => {
