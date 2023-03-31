@@ -47,7 +47,7 @@ const About = () => {
             There is always something new to discover, perhaps a new kind of technology that can be applied in various ways or a new algorithm to reduce a coding challenge solution's time complexity. Nevertheless, these discoveries all serve one overarching goal: how can we, as humans, bring an impactful career to society and evolve success in every possible way.<br />
             <br />
             Systems are how we view the world. Design is how we change the world. <br /><br />
-            As a senior studying Engineering Physics (co-op) at McMaster University, I am excited to explore entrepreneurial ventures in the technology sector and incorporate innovative design into our everyday lives.
+            As a senior studying Engineering Physics & Computer Science (co-op) at McMaster University, I am excited to explore entrepreneurial ventures in the technology sector and incorporate innovative design into our everyday lives.
           </p>
 
           <a href="#contact" className = 'btn btn-primary'>Let's Talk</a>

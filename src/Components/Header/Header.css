@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 130vh;
     padding-top: 7rem;
     overflow: hidden;
 
@@ -12,6 +12,18 @@ header {
 }
 
 /* ---------------------CTA-------------------------------------------*/
+.honeClass {
+    font-size: 10rem;
+}
+
+.text-light_header {
+    font-size: 4rem;
+}
+
+.headerbanner{
+    
+    font-size: 2rem;
+}
 
 .cta {
     margin-top: 2.5rem;
