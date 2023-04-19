@@ -2,6 +2,8 @@
 
 Welcome to my Software Engineering portfolio! This portfolio contains information about my experience, skills, and projects as a software engineer.
 
+[manankharwar.com](https://manankharwar.com/)
+
 ## About Me
 
 My name is Manan, and I am a senior pursuing Engineering Physics and Computer Science at McMaster University. I've over two years of co-op experience and have worked on a variety of projects in different industries. My passion for programming started when I was young, and I have since developed skills in several programming languages and technologies.
