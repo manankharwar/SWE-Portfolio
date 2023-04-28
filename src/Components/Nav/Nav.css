@@ -12,7 +12,20 @@ nav {
     gap: 0.8rem;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
+    /* animation: slideTop 1s ease forwards; */
 }
+
+/* @keyframes slideTop {
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+} */
 
 nav a {
     background: transparent;
@@ -32,3 +45,4 @@ nav a.active {
     color: var(--color-bg);
 
 }
+
